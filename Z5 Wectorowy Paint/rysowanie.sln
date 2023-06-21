@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rysowanie", "rysowanie\rysowanie.csproj", "{9F0B427B-B6EF-4D5B-B284-307BB8766319}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F0B427B-B6EF-4D5B-B284-307BB8766319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F0B427B-B6EF-4D5B-B284-307BB8766319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F0B427B-B6EF-4D5B-B284-307BB8766319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F0B427B-B6EF-4D5B-B284-307BB8766319}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04E820FD-E327-4C93-9C3E-C91AF2ADDEBF}
+	EndGlobalSection
+EndGlobal
